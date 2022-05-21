@@ -1,6 +1,6 @@
 require "formula"
 
-class Openems < Formula
+class openEMS < Formula
   homepage "http://openems.de"
 
   head do
